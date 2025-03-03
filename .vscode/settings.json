@@ -1,0 +1,7 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.extraPaths": [
+        "./analysis/load_data"
+    ],
+    "python.analysis.autoImportCompletions": true
+}
